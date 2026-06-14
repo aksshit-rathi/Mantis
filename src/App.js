@@ -10,7 +10,7 @@ const PRODUCTS = [
   { id:6, name:"IndustroPump X3", brand:"FlowForce", cat:"Industrial Equipment", emoji:"⚙️", desc:"3HP centrifugal water pump for industrial and agricultural use.", docs:[{name:"Technical Manual",type:"PDF",size:"5.6 MB"},{name:"Safety Guidelines",type:"PDF",size:"1.0 MB"}], quickQ:["Low pressure output","Motor overheating","Pump not priming","Unusual noise"], systemPrompt:"You are an industrial pump technician for the FlowForce IndustroPump X3. Diagnose issues systematically. Ask about pressure readings, motor sounds, and priming status before suggesting fixes. Safety is paramount." }
 ];
 
-const API_KEY = "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";
+const API_KEY = "YOUR_GROQ_API_KEY";
 
 export default function App() {
   const [page, setPage] = useState("browse");
