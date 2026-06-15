@@ -39,6 +39,8 @@ FixIQ is an AI-powered product support platform that helps users diagnose and fi
 
 ## Live Demo
 https://relaxed-zabaione-8b6541.netlify.app
+
+#video : 
 https://drive.google.com/file/d/1Zh8w3WeZ4z-PT1hnaTbMMgozh5RDj_Uq/view?usp=drive_link
 
 ## Screenshots
